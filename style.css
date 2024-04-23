@@ -1,0 +1,47 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aliceblue;
+}
+
+#result_label{
+    background-color: rgb(178, 163, 66);
+    color: rgb(255, 219, 238);
+    font-size: 50px;
+}
+#result_confidence{
+    background-color: rgb(255, 219, 238);
+    color: rgb(178, 163, 66);
+    font-size: 50px;
+}
+#results{
+    padding-left: 30%;
+    padding-right: 30%;
+}
+h2{
+    color: coral;
+    font-size: 75px;
+}
+p{
+    color: crimson;
+    font-size: 30px;
+}
+#start_btn{
+    border-radius: 20px;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 40px;
+    background-color: darkseagreen;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    font-size: 18px;
+    background-color: cadetblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(174, 150, 180);
+    color: rgb(159, 29, 192);
+    font-size: 20px;
+}
